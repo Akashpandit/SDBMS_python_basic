@@ -22,7 +22,7 @@ Please Note:
 UNIQUE FEATURES OF THE PROJECT:
 ==================================
 
-->No files needs to be created before the execution of the program.The files gets create automatically by the system as and when required.
+->No files needs to be created before the execution of the program.The files gets created automatically by the system as and when required.
   All the associated files gets created at the location of this .py file.
 ->All the possible exceptions handling has been done.
 ->The data are represented in tabular form thus it improves the readability.
